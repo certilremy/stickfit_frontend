@@ -2,10 +2,10 @@ import Link from 'next/link';
 
 const Nav =()=>(
     <div>
-     <Link href ="/sell">
+     <Link href ="/">
      <p> Home</p>
      </Link>
-    <Link href ="/">
+    <Link href ="/sell">
      <p> Sell!</p>
     </Link>
     </div>
