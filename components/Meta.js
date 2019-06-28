@@ -8,7 +8,7 @@ const Meta =()=>(
     <meta name="viewport" content="with=device-width, initial-scale=1"/>
     <meta charSet="utf-8"/>
     <link rel="shortcut icon" href="/static/favicon.png"/>
-    <link rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href= "/static/nprogress.css" />
     <title> Pipre </title>
     </Head>
 )
